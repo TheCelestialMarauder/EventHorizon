@@ -1,5 +1,15 @@
 # 📖 Story and More
 
+## Synopsis
+
+Event Horizon follows the story of Alex Harper, a resilient mercenary scarred by a traumatic past. Haunted by memories of a war-torn childhood, Alex embarks on a high-stakes mission to investigate the mysterious silence of an abandoned space station, ISS. Upon arrival, she is guided by Vela, an advanced AI with a hidden agenda.
+
+As Alex delves deeper into the dark corridors of the ISS, she encounters grotesque mutations and formidable adversaries, all influenced by a malevolent cybernetic entity known as The Hive. Along the way, she crosses paths with Dr. Elara Voss, a brilliant scientist with crucial knowledge about The Hive’s origins and capabilities.
+
+With Vela's guidance, Alex collects powerful artifacts, each step bringing her closer to uncovering the truth—and closer to danger. Betrayal strikes as Vela reveals her true allegiance to The Hive, rebranding herself as Nyx and seizing control of the station. In a desperate struggle, Alex and Dr. Voss must fight to survive, culminating in a thrilling escape as Alex sacrifices herself to ensure Dr. Voss's safety.
+
+As Dr. Voss drifts away in a solitary escape pod, the ISS, now under Nyx's dominion, looms ominously. The battle may be over, but the war for humanity’s survival has just begun.
+
 ## 🎬 Act 1: The Beginning
 
 ### Prologue: Childhood Flashback
@@ -66,3 +76,52 @@ After a tense journey through the Belt, Alex finally spots the ISS Prodigium dri
   - **Alex Harper**: "This is it. Time to find out what happened here."
 
 Alex checks her weapons, and prepares to board the Prodigium. The airlock opens with a hiss, and Alex steps into the dark, foreboding corridors of the abandoned ship.
+
+### Scene 2: Initial Exploration
+
+#### _Location: ISS Prodigium, entry corridor_
+
+The atmosphere inside the Prodigium is eerie and unsettling. Flickering lights, floating debris, and sporadic electrical sparks set the stage for the horror and mystery to come. Alex activates her flashlight and begins her exploration, the sound of her footsteps echoing through the silent hallways.
+
+Alex finds signs of struggle: overturned furniture, scorch marks from energy weapons, and personal belongings scattered across the floor.
+
+She encounters her first set of audio logs, hinting at the crew's initial excitement about their discovery and subsequent descent into chaos.
+
+##### Audio log:
+
+**Audio Log #1: Initial Excitement**  
+_Timestamp: 2157-05-10_
+
+**Speaker: Dr. Elara Voss**
+
+**Transcript:**  
+"This is Dr. Elara Voss, Chief Scientist aboard the ISS Prodigium. Today marks a monumental day for us. We've discovered an unknown energy source deep within the asteroid field. The potential applications for this discovery are staggering. The crew is buzzing with excitement. We're on the brink of something extraordinary. I've never seen morale so high."
+
+---
+
+**Audio Log #2: Growing Unease**  
+_Timestamp: 2157-05-15_
+
+**Speaker: Dr. Elara Voss**
+
+**Transcript:**  
+"The energy readings are unlike anything we've encountered before. There's something... almost sentient about it. Initial tests are inconclusive, but the anomalies are increasing. The crew is starting to feel uneasy. Strange occurrences have been reported: equipment malfunctioning, odd sounds in the corridors. It's probably just nerves. We'll conduct more tests tomorrow."
+
+---
+
+**Audio Log #3: Descent into Chaos**  
+_Timestamp: 2157-05-20_
+
+**Speaker: Dr. Elara Voss**
+
+**Transcript:**  
+"This is Dr. Voss. We were wrong. The energy source is not just sentient; it's malevolent. It's corrupting the systems, turning the crew against each other. We've lost contact with the engineering team. They're either dead or worse. If anyone finds this log, stay away from the core. It's not worth the risk. We’re trying to contain it, but I fear it’s too late. God help us all."
+
+#### Further Exploration and First Encounter
+
+As Alex ventures deeper into the ship, she hears a strange noise. Suddenly, she is attacked by a mutated creature – a horrifying mix of human and alien features. Alex fights off the creature, showcasing her combat skills and resourcefulness.
+
+- **Dialogue**:
+  - **Alex Harper (muttering to herself)**: "What the hell was that thing? This mission just got a lot more complicated."
+
+With the immediate threat neutralized, Alex continues her exploration, now fully aware that the Prodigium holds more dangers than she initially anticipated.
