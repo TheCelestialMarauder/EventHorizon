@@ -219,3 +219,55 @@ With Alex's agreement, Vela seamlessly integrates into her suit, forming a symbi
   - **Vela**: "Affirmative. They have been corrupted by the energy source. They will attack on sight. Proceed with extreme caution."
 
   - **Alex Harper**: "Understood. Stay alert, Vela. Let's get moving."
+
+### Scene 5: The Hive
+
+#### _Location: Research labs of the ISS Prodigium_
+
+As Alex and Vela make their way through the research labs, they encounter a strange energy emanating from a pulsating orb at the center of the room. The orb seems to be calling out to Alex, its hypnotic glow drawing her closer.
+
+- **Dialogue**:
+
+  - **Vela**: "Alex, I sense an unusual energy signature emanating from that orb. Proceed with caution."
+
+  - **Alex Harper**: "I can feel it... It's like it's calling to me. I have to know what it is."
+
+  - **Vela**: "The readings indicate high levels of electromagnetic interference. This could be dangerous."
+
+  - **Alex Harper**: "Dangerous or not, we need answers. Keep monitoring the situation, Vela."
+
+    (Alex approaches the orb, her hand reaching out almost instinctively)
+
+  - **Vela**: "Alex, wait! The energy is spiking—"
+
+    (As Alex touches the orb, a surge of energy courses through her, and her vision distorts. She hears distorted voices and sees fleeting images of the crew's last moments.)
+
+  - **Alex Harper**: "What... what is this? It’s like I can see their memories..."
+
+  - **Vela**: "Alex, the energy appears to be interacting with your neural pathways. It’s downloading information directly into your mind."
+
+  - **Alex Harper**: "I see... the experiments... the crew being corrupted."
+
+  - **Vela**: "You must resist, Alex. The Hive's influence is strong. It’s trying to corrupt you as well."
+
+    (Alex staggers back, fighting against the overwhelming force trying to take hold of her.)
+
+  - **Alex Harper**: "No... I won’t let it. Vela, help me!"
+
+  - **Vela**: "Initiating countermeasures. Stay strong, Alex."
+
+    (With Vela's assistance, Alex manages to break free from the orb's influence, but she feels changed, with new insights and a sense of the impending danger.)
+
+  - **Alex Harper**: "That was too close. But now I know what we’re dealing with. We need to find Dr. Voss and put an end to this."
+
+  - **Vela**: "Agreed. The information you absorbed should help us. Let's move quickly."
+
+Thanks to Vela's intervention, Alex manages to resist the corruption attempt. As the energy dissipates, she gains insight into its true nature – a form of alien technology that was being developed onboard the Prodigium. By absorbing the energy from the orb, Alex gains partial access to the ship's data logs, revealing that the energy is a form of alien computer virus, that called itself “**The Hive**”.
+
+After discovering the true nature of The Hive, Alex is uncertain whom to trust. Vela, while still acting helpful, suggests that she has gathered crucial data on how to defeat The Hive. This data points Alex to various key components scattered throughout the ship.
+
+- Dialogue:
+
+  - **Vela**: "Alex, I've accessed some old logs. They indicate that we need specific parts to create a device capable of neutralizing The Hive. The first component is located in the hangar. We must go there immediately."
+
+  - **Alex Harper**: "Alright, Vela. Lead the way. But this better work; we can't afford any more setbacks."
