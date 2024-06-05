@@ -1,4 +1,4 @@
-# 📖 Story and More
+# :open_book: Story and More
 
 ## Synopsis
 
@@ -10,7 +10,7 @@ With Vela's guidance, Alex collects powerful artifacts, each step bringing her c
 
 As Dr. Voss drifts away in a solitary escape pod, the ISS, now under Nyx's dominion, looms ominously. The battle may be over, but the war for humanity’s survival has just begun.
 
-## 🎬 Act 1: The Beginning
+## :clapper: Act 1: The Beginning
 
 ### Prologue: Childhood Flashback
 
@@ -125,3 +125,23 @@ As Alex ventures deeper into the ship, she hears a strange noise. Suddenly, she 
   - **Alex Harper (muttering to herself)**: "What the hell was that thing? This mission just got a lot more complicated."
 
 With the immediate threat neutralized, Alex continues her exploration, now fully aware that the Prodigium holds more dangers than she initially anticipated.
+
+## :clapper: Act 2: Dark discoveries
+
+### Scene 3: Vela
+
+#### _Location: Central hub of the ISS Prodigium_
+
+As Alex explores deeper into the ship, she eventually reaches the central hub, the heart of the Prodigium's operations. Here, she discovers the ship's advanced artificial intelligence, Vela, dormant and in need of repair.
+
+- Dialogue:
+
+  - **Alex Harper**: surprised "A Vela? That's... unexpected. I've heard of AIs like this, but they're usually reserved for top-tier operations, not a research vessel like this."
+
+  - **Vela**: "Affirmative, Alex Harper.”
+
+  - **Alex Harper**: surprised "You know me? That doesn’t matter, tell me what happened here? What caused the chaos?"
+
+  - **Vela**: “Commander Liora Voss send some data of your arriving, and for telling you about what happened here I need to be repaired first.”
+
+Alex's surprise at encountering Vela for the first time underscores the significance of the situation. As a seasoned mercenary, she understands that the presence of an advanced AI like Vela indicates that there is more to the story than meets the eye.
