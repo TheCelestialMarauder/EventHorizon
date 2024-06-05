@@ -51,3 +51,18 @@
 - **Audio**: Sounds of machinery, weapon holstering, and the hum of the ship's engines.
 - **Dialogue**:
   - **Alex (internal monologue)**: "Another mission, another chance to make things right."
+
+### Scene 1: Entering the Shadow Belt
+
+#### _Location: The Wraith, in route to the Shadow Belt_
+
+As Alex navigates through space, she reflects on the ominous reputation of the Shadow Belt – a region known for its gravitational anomalies, mysterious disappearances, and treacherous space phenomena. The tension builds as she enters the Belt, and the ship's instruments begin to malfunction due to the gravitational disturbances.
+
+#### _Location: The Wraith's cockpit, approaching the ISS Prodigium_
+
+After a tense journey through the Belt, Alex finally spots the ISS Prodigium drifting in the darkness. The once-proud vessel now appears lifeless, its exterior scarred and damaged. Alex docks with the Prodigium, securing her ship to one of the airlocks.
+
+- **Dialogue**
+  - **Alex Harper**: "This is it. Time to find out what happened here."
+
+Alex checks her weapons, and prepares to board the Prodigium. The airlock opens with a hiss, and Alex steps into the dark, foreboding corridors of the abandoned ship.
