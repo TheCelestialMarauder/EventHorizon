@@ -1,4 +1,4 @@
-# EventHorizon
+# :rocket: EventHorizon
 
 In the depths of space, haunted by a war-torn past, mercenary Alex Harper embarks on a perilous mission to uncover the secrets of a derelict space station. Guided by an advanced AI, she must confront unimaginable horrors and the lurking threat of The Hive. Will she survive, or will the void consume her?
 
@@ -6,11 +6,11 @@ In the depths of space, haunted by a war-torn past, mercenary Alex Harper embark
 
 For more detailed information of the design and the development of the game you can consult the following documents:
 
-- [Characters](GDD/characters.md)
-- [History and more]()
-- [Game mechanics]()
-- [Art and sound]()
-- [Créditos]()
+- :bust_in_silhouette: [Characters](GDD/characters.md)
+- :book: [History and more (in process)]()
+- :video_game: [Game mechanics (in process)]()
+- :art: [Art and sound (in process)]()
+- :trophy: [Credits (in process)]()
 
 ## Contact
 
