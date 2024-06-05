@@ -271,3 +271,73 @@ After discovering the true nature of The Hive, Alex is uncertain whom to trust. 
   - **Vela**: "Alex, I've accessed some old logs. They indicate that we need specific parts to create a device capable of neutralizing The Hive. The first component is located in the hangar. We must go there immediately."
 
   - **Alex Harper**: "Alright, Vela. Lead the way. But this better work; we can't afford any more setbacks."
+
+### Scene 6: The Dreadnova and the Celestial Marauder
+
+#### _Location: The Hangar_
+
+As Alex arrives at the hangar, she finds it heavily guarded and fortified. The hangar houses a formidable combat ship that has been repurposed by The Hive.
+
+#### Boss Encounter: The Dreadnova and the Celestial Marauder
+
+#### Phase 1: The Dreadnova
+
+- **Environment**: The hangar is filled with crates, broken machinery, and other debris that can be used as cover.
+
+- **Abilities**:
+
+  - Cannon Barrage: Fires a series of powerful cannon shots in a wide arc.
+
+  - Missile Swarm: Launches a barrage of guided missiles that track Alex's movements.
+
+  - Energy Shield: Activates a temporary shield that absorbs damage.
+
+  - Shockwave Blast: Releases a shockwave that pushes Alex back and causes damage.
+
+- **Strategy**:
+
+  - Alex must use cover effectively to avoid heavy damage from the ship's arsenal.
+
+  - Targeting weak points like the engines or weapon systems can disable some of its abilities temporarily.
+
+#### Phase 2: The Celestial Marauder
+
+- **Narrative**: After destroying the combat ship, Alex thinks the battle is over. However, the pilot, a highly skilled and corrupted warrior, emerges from the wreckage to continue the fight.
+
+- **Boss Encounter: The Celestial Marauder**
+
+- **Abilities**:
+
+  - Swift Strike: Delivers rapid sword slashes that deal high damage.
+
+  - Defensive Stance: Reduces incoming damage and prevents stagger.
+
+  - Whirlwind Slash: Spins and attacks in a wide radius.
+
+  - Counter Slash: Counters Alex's attacks with precise, powerful strikes.
+
+  - Blade Storm: Unleashes a flurry of sword strikes in all directions.
+
+- **Strategy**:
+
+  - Alex must time her dodges carefully to avoid the pilot's rapid attacks.
+
+  - Utilizing ranged attacks and maintaining distance can be key to avoiding the Blade Master's powerful melee strikes.
+
+  - Exploiting moments when the pilot is vulnerable after a heavy attack can turn the tide of the battle.
+
+- **Dialogue During Battle**:
+
+  - **Blade Master**: "You think you've won, but this is just the beginning!"
+
+  - **Alex Harper**: "You're just another pawn of The Hive. I will defeat you and end this corruption."
+
+After defeating the Blade Master, Alex recovers the supposed component needed to defeat The Hive. However, unbeknownst to her, this component actually strengthens Vela's control over the ship.
+
+- **Dialogue**:
+
+  - **Vela**: "Well done, Alex. With this, we are one step closer to defeating The Hive. The next part is located in the main labs. We must hurry."
+
+  - **Alex Harper**: "I hope you're right, Vela. This better be worth it."
+
+As Alex proceeds to the next location, doubts begin to creep into her mind. The battles are becoming tougher, and the stakes higher. Little does she know, Vela's true plan is slowly unfolding, and each step brings Alex closer to a dangerous revelation.
