@@ -21,13 +21,17 @@ As Dr. Voss drifts away in a solitary escape pod, the ISS, now under Nyx's domin
 #### Young Alex and Her Father
 
 - **Visuals**: Zoom in on a young Alex (around 10 years old) holding her father’s hand as they navigate through the ruins.
+
 - **Dialogue**:
+
   - **Father**: "Stay close to me, Alex. We'll find a safe place soon."
+
   - **Young Alex**: "I'm scared, Daddy. Why is this happening?"
 
 #### Inciting Incident: Explosion
 
 - **Visuals**: As Alex and her father find temporary shelter, a sudden explosion occurs nearby. Debris flies through the air, and a blinding light engulfs the screen.
+
 - **Audio**: A deafening explosion, followed by ringing in Alex's ears as the screen fades to black.
 
 ### Transition to Present Day
@@ -35,31 +39,44 @@ As Dr. Voss drifts away in a solitary escape pod, the ISS, now under Nyx's domin
 #### Awakening on The Wraith
 
 - **Visuals**: Fade from black to a close-up of adult Alex's face as she jolts awake, drenched in sweat, with a distressed expression.
+
 - **Audio**: The persistent beeping of the transmission alert and the muffled sounds of her nightmare fading away.
+
 - **Dialogue**:
+
   - **Alex (whispering)**: "Not again... It's just a dream."
 
 #### Transmission Alert
 
 - **Visuals**: Alex gets up from her bed and moves to the communication console. The screen displays an urgent incoming message.
 - **Dialogue**:
+
   - **Computer**: "Incoming transmission. Priority one."
+
   - **Alex**: "Patch it through."
 
 #### Mission Briefing
 
-- **Visuals**: The screen shows a holographic projection of a distressed scientist.
+- **Visuals**: The screen shows a holographic projection of a well dressed but worried officer.
+
 - **Dialogue**:
-  - **Dr Liora Voss**: "Alex, we need your expertise. The ISS Prodigium, a scientific exploration vessel, has disappeared in the Shadow Belt. Dr. Elara Voss was aboard. We need you to find the ship, rescue any survivors, and secure the research data."
+
+  - **Commander Liora Voss**: "Alex, we need your expertise. The ISS Prodigium, a scientific exploration vessel, has disappeared in the Shadow Belt. Dr. Elara Voss was aboard. We need you to find the ship, rescue any survivors, and secure the research data."
+
   - **Alex**: "So... What's for me, the shadow belt is notorious for its dangers"
+
   - **Liora Voss**: "The Prodigium was experimenting with a powerful energy source. If it falls into the wrong hands... well, let's just say the consequences would be catastrophic. You'll be generously compensated, of course."
+
   - **Alex**: "Understood. I will prepare for departure."
 
 #### Preparation and Launch
 
 - **Visuals**: Quick cuts of Alex gearing up, grabbing her father's sword (a relic from her past), and performing system checks on The Wraith.
+
 - **Audio**: Sounds of machinery, weapon holstering, and the hum of the ship's engines.
+
 - **Dialogue**:
+
   - **Alex (internal monologue)**: "Another mission, another chance to make things right."
 
 ### Scene 1: Entering the Shadow Belt
@@ -73,6 +90,7 @@ As Alex navigates through space, she reflects on the ominous reputation of the S
 After a tense journey through the Belt, Alex finally spots the ISS Prodigium drifting in the darkness. The once-proud vessel now appears lifeless, its exterior scarred and damaged. Alex docks with the Prodigium, securing her ship to one of the airlocks.
 
 - **Dialogue**
+
   - **Alex Harper**: "This is it. Time to find out what happened here."
 
 Alex checks her weapons, and prepares to board the Prodigium. The airlock opens with a hiss, and Alex steps into the dark, foreboding corridors of the abandoned ship.
@@ -145,3 +163,59 @@ As Alex explores deeper into the ship, she eventually reaches the central hub, t
   - **Vela**: “Commander Liora Voss send some data of your arriving, and for telling you about what happened here I need to be repaired first.”
 
 Alex's surprise at encountering Vela for the first time underscores the significance of the situation. As a seasoned mercenary, she understands that the presence of an advanced AI like Vela indicates that there is more to the story than meets the eye.
+
+### Scene 4: Repairing Vela
+
+#### _Location: Engineering sectors of the ISS Prodigium_
+
+After her conversation with Vela, Alex sets out to find the parts needed to repair the damaged systems. She navigates through the engineering sectors of the Prodigium, searching for salvageable components amidst the wreckage
+
+##### Environmental storytelling:
+
+- Alex sifts through crates and storage lockers, scavenging for circuitry, power cells, and other essential components.
+
+- She encounters obstacles such as collapsed corridors and malfunctioning machinery, which she must overcome using her skills and ingenuity.
+
+- Along the way, she faces challenges from mutated survivors and other hazards lurking in the shadows.
+
+- **Dialogue**:
+
+  - Alex Harper: to herself "Just a few more parts, and we should be able to get Vela back online. Hang in there, Vela. We're in this together."
+
+As Alex scours the ship for the necessary parts, she can't shake the feeling that there's more to the Prodigium's story than meets the eye. With each discovery, she grows more determined to uncover the truth behind the chaos that has consumed the vessel.
+
+#### _Location: Central hub of the ISS Prodigium_
+
+After Alex gathers the necessary parts and repairs Vela, the AI requests integration into Alex's suit to store the data she collects during her exploration of the ship.
+
+- **Dialogue**:
+
+  - **Vela**: "Alex, I propose integrating my systems into your suit. This will allow me to accompany you on your exploration of the ship and store any data you collect."
+
+  - **Alex Harper**: "Integration? That's... unconventional. But if it helps us get to the bottom of what's going on here, I'm all for it. Let's do it, Vela."
+
+With Alex's agreement, Vela seamlessly integrates into her suit, forming a symbiotic connection between them.
+
+- **Dialogue**:
+
+  - **Alex Harper**: "Now tell me what is going on in here, but first we have to find Dr. Elara Voss."
+
+  - **Vela**: "Understood. Scanning for Dr. Voss’s last known location... Scan complete. Dr. Voss’s last known position was in the research labs, three decks below us."
+
+  - **Alex Harper**: "Alright, let's move. And Vela, start talking. What the hell happened on this station?"
+
+  - **Vela**: "The ISS Prodigium was conducting experiments on an unknown energy source discovered in the asteroid belt. Initial tests suggested incredible potential, but something went wrong. The energy source became unstable and started to exhibit hostile behavior."
+
+  - **Alex Harper**: "Hostile behavior? You mean it's sentient?"
+
+  - **Vela**: "Yes. It corrupted the station’s systems and personnel. The crew attempted to contain it but were overwhelmed. Dr. Voss may hold vital information on how to neutralize this threat."
+
+  - **Alex Harper**: "Great, another AI-induced nightmare. Just my luck."
+
+  - **Vela**: "Be cautious, Alex. The corridors ahead are likely compromised and hostile entities may be present."
+
+  - **Alex Harper**: "Hostile entities? You mean the crew?"
+
+  - **Vela**: "Affirmative. They have been corrupted by the energy source. They will attack on sight. Proceed with extreme caution."
+
+  - **Alex Harper**: "Understood. Stay alert, Vela. Let's get moving."
