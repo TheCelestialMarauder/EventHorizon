@@ -7,7 +7,7 @@ In the depths of space, haunted by a war-torn past, mercenary Alex Harper embark
 For more detailed information of the design and the development of the game you can consult the following documents:
 
 - :bust_in_silhouette: [Characters](GDD/characters.md)
-- :book: [History and more (in process)]()
+- :book: [Story and more (in process)]()
 - :video_game: [Game mechanics (in process)]()
 - :art: [Art and sound (in process)]()
 - :trophy: [Credits (in process)]()
