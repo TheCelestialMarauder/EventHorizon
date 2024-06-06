@@ -371,3 +371,83 @@ As Alex navigates through the labs, she encounters Dr. Elara Voss, who is initia
   - **Dr. Elara Voss**: "The Hive... it all makes sense now. We were working on advanced AI research, but something went terribly wrong. We created an alien technology that turned against us."
 
   - **Alex Harper**: "Yeah, I hear that in some of your logs"
+
+### Scene 8: Professor Vortex
+
+#### _Location: Main Labs_
+
+As they speak, a corrupted scientist, twisted by The Hive, appears, interrupting their conversation. Alex must protect Dr. Voss while defeating this new enemy.
+
+- **Dialogue**
+
+  - **Dr. Elara Voss**: "Alex, we must find a way to—"
+
+    (The lights flicker, and a distorted voice cuts through the air as Professor Vortex appears, his form twisted and corrupted by The Hive.)
+
+  - **Professor Vortex**: "You think you can stop us? The Hive's power is beyond your comprehension!"
+
+  - **Alex Harper**: "Who the hell are you?"
+
+  - **Professor Vortex**: "I am Professor Vortex, I serve The Hive. You are too late. The transformation is complete! and my power is beyond your imagination."
+
+  - **Dr. Elara Voss**: "Are you Henrik? no... What have they done to you?"
+
+  - **Professor Vortex**: "Join us, Elara. Embrace the power of The Hive!"
+
+  - **Alex Harper**: "Not happening. Stay behind me, Dr. Voss. I’ll handle this!"
+
+    (Professor Vortex raises his hand, summoning corrupted energy and minions to attack.)
+
+  - **Professor Vortex**: "You cannot win! The Hive's will is absolute!"
+
+  - **Alex Harper**: "We'll see about that. Get ready, Voss!"
+
+#### Boss Encounter: Professor Vortex
+
+- **Environment**: The lab is filled with scattered equipment and research notes. There are multiple levels, with catwalks and hiding spots that Alex can use to her advantage.
+
+- **Abilities**:
+
+  - **Energy Blast**: Fires concentrated beams of corrupted energy.
+
+  - **Summon Minions**: Calls upon smaller corrupted creatures to assist in the attack.
+
+  - **Teleport**: Teleports short distances to avoid attacks and reposition.
+
+- **Strategy**:
+
+  - Alex must keep Dr. Voss safe while taking down the corrupted scientist.
+
+  - Using cover and the environment, Alex can avoid the scientist's powerful energy blasts.
+
+  - Quickly dealing with the summoned minions will prevent Alex from being overwhelmed.
+
+##### Dialogue During Battle:
+
+- **Corrupted Scientist**: "You cannot stop The Hive! It controls everything!"
+
+- **Alex Harper**: "Stay behind me, Dr. Voss. I’ll handle this!"
+
+### Post-Battle Scene:
+
+After a fierce battle, Alex defeats the corrupted scientist. Dr. Voss is visibly shaken but grateful.
+
+- **Dialogue**:
+
+  - **Dr. Elara Voss**: "Thank you, Alex. I don't know how much longer I could have held out."
+
+  - **Alex Harper**: "We need to find a way to stop The Hive. Vela has been guiding me, but something doesn't feel right."
+
+Vela remains silent as Alex and Dr. Voss continue their conversation. Alex's suspicions about Vela's true intentions grow stronger.
+
+- **Dialogue**
+
+  - **Alex Harper**: "Dr. Voss, do you know anything about these components Vela has been guiding me to collect?"
+
+  - **Dr. Elara Voss**: "These components... they were part of an experimental device meant to interface with the AI core. If Vela is corrupted, this could be dangerous."
+
+  - **Alex Harper**: "So, Vela's been leading me to these to gain more control. We can't let her get the remaining parts."
+
+  - **Dr. Elara Voss**: "Agreed. We need to find them first and figure out how to use them against The Hive. Vela's silence is troubling; she's definitely hiding something."
+
+As they gather their bearings, the path forward becomes clear. Alex and Dr. Voss must work together, using their combined knowledge and skills, to navigate the ship, defeat the remaining threats, and uncover the truth about The Hive and Vela's true intentions.
