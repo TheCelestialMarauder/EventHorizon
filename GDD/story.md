@@ -180,7 +180,7 @@ After her conversation with Vela, Alex sets out to find the parts needed to repa
 
 - **Dialogue**:
 
-  - Alex Harper: to herself "Just a few more parts, and we should be able to get Vela back online. Hang in there, Vela. We're in this together."
+  - **Alex Harper**: to herself "Just a few more parts, and we should be able to get Vela back online. Hang in there, Vela. We're in this together."
 
 As Alex scours the ship for the necessary parts, she can't shake the feeling that there's more to the Prodigium's story than meets the eye. With each discovery, she grows more determined to uncover the truth behind the chaos that has consumed the vessel.
 
@@ -286,13 +286,13 @@ As Alex arrives at the hangar, she finds it heavily guarded and fortified. The h
 
 - **Abilities**:
 
-  - Cannon Barrage: Fires a series of powerful cannon shots in a wide arc.
+  - **Cannon Barrage**: Fires a series of powerful cannon shots in a wide arc.
 
-  - Missile Swarm: Launches a barrage of guided missiles that track Alex's movements.
+  - **Missile Swarm**: Launches a barrage of guided missiles that track Alex's movements.
 
-  - Energy Shield: Activates a temporary shield that absorbs damage.
+  - **Energy Shield**: Activates a temporary shield that absorbs damage.
 
-  - Shockwave Blast: Releases a shockwave that pushes Alex back and causes damage.
+  - **Shockwave Blast**: Releases a shockwave that pushes Alex back and causes damage.
 
 - **Strategy**:
 
@@ -308,15 +308,15 @@ As Alex arrives at the hangar, she finds it heavily guarded and fortified. The h
 
 - **Abilities**:
 
-  - Swift Strike: Delivers rapid sword slashes that deal high damage.
+  - **Swift Strike**: Delivers rapid sword slashes that deal high damage.
 
-  - Defensive Stance: Reduces incoming damage and prevents stagger.
+  - **Defensive Stance**: Reduces incoming damage and prevents stagger.
 
-  - Whirlwind Slash: Spins and attacks in a wide radius.
+  - **Whirlwind Slash**: Spins and attacks in a wide radius.
 
-  - Counter Slash: Counters Alex's attacks with precise, powerful strikes.
+  - **Counter Slash**: Counters Alex's attacks with precise, powerful strikes.
 
-  - Blade Storm: Unleashes a flurry of sword strikes in all directions.
+  - **Blade Storm**: Unleashes a flurry of sword strikes in all directions.
 
 - **Strategy**:
 
@@ -341,3 +341,33 @@ After defeating the Blade Master, Alex recovers the supposed component needed to
   - **Alex Harper**: "I hope you're right, Vela. This better be worth it."
 
 As Alex proceeds to the next location, doubts begin to creep into her mind. The battles are becoming tougher, and the stakes higher. Little does she know, Vela's true plan is slowly unfolding, and each step brings Alex closer to a dangerous revelation.
+
+### Scene 7: Dr Elara Voss
+
+#### _Location: Main Labs_
+
+As Alex navigates through the labs, she encounters Dr. Elara Voss, who is initially defensive and aggressive, mistaking Alex for an enemy.
+
+- **Dialogue**:
+
+  - **Dr. Elara Voss**: "Stay back! I won't let you take me!"
+
+  - **Alex Harper**: "Whoa, whoa! Who are you?"
+
+    Dr. Voss attacks, but Alex quickly neutralizes her, pinning her down and checking her ID.
+
+- **Dialogue**:
+
+  - **Alex Harper**: "Dr. Voss? I'm here to rescue you. Calm down, I'm on your side."
+
+  - **Dr. Elara Voss**: "Rescue me? Who sent you?"
+
+    Alex releases Dr. Voss, and they begin to talk, sharing crucial information.
+
+- **Dialogue**:
+
+  - **Alex Harper**: "Your dear brother, Commander Liora Voss, send me to find out what happened here and rescue his dear sister and any other survivors. And about what happened... the ship has been overrun by something called The Hive."
+
+  - **Dr. Elara Voss**: "The Hive... it all makes sense now. We were working on advanced AI research, but something went terribly wrong. We created an alien technology that turned against us."
+
+  - **Alex Harper**: "Yeah, I hear that in some of your logs"
