@@ -67,7 +67,7 @@ As Dr. Voss drifts away in a solitary escape pod, the ISS, now under Nyx's domin
 
   - **Liora Voss**: "The Prodigium was experimenting with a powerful energy source. If it falls into the wrong hands... well, let's just say the consequences would be catastrophic. You'll be generously compensated, of course."
 
-  - **Alex**: "Understood. I will prepare for departure."
+  - **Alex**: "It sound good for me. I will prepare for departure."
 
 #### Preparation and Launch
 
@@ -77,7 +77,7 @@ As Dr. Voss drifts away in a solitary escape pod, the ISS, now under Nyx's domin
 
 - **Dialogue**:
 
-  - **Alex (internal monologue)**: "Another mission, another chance to make things right."
+  - **Alex (internal monologue)**: "Another mission, another chance to end this."
 
 ### Scene 1: Entering the Shadow Belt
 
@@ -422,13 +422,11 @@ As they speak, a corrupted scientist, twisted by The Hive, appears, interrupting
 
   - Quickly dealing with the summoned minions will prevent Alex from being overwhelmed.
 
-##### Dialogue During Battle:
+- Dialogue During Battle:
 
-- **Corrupted Scientist**: "You cannot stop The Hive! It controls everything!"
+  - **Professor Vortex**: "You cannot stop The Hive! It controls everything!"
 
-- **Alex Harper**: "Stay behind me, Dr. Voss. I’ll handle this!"
-
-### Post-Battle Scene:
+  - **Alex Harper**: "Stay behind me, Dr. Voss. I’ll handle this!"
 
 After a fierce battle, Alex defeats the corrupted scientist. Dr. Voss is visibly shaken but grateful.
 
@@ -451,3 +449,85 @@ Vela remains silent as Alex and Dr. Voss continue their conversation. Alex's sus
   - **Dr. Elara Voss**: "Agreed. We need to find them first and figure out how to use them against The Hive. Vela's silence is troubling; she's definitely hiding something."
 
 As they gather their bearings, the path forward becomes clear. Alex and Dr. Voss must work together, using their combined knowledge and skills, to navigate the ship, defeat the remaining threats, and uncover the truth about The Hive and Vela's true intentions.
+
+### Scene 9: The Singularity
+
+Alex and Dr. Voss, now wary of Vela's intentions, move towards the next location. Along the way, they bombard Vela with questions, trying to unravel the AI's true purpose and intentions.
+
+- **Dialogue**:
+
+  - **Alex Harper**: "Vela, who exactly created The Hive? How did it gain control over the ship?"
+
+  - **Vela**: "The origins of The Hive are unclear. The data I have suggests an experimental project that went out of control."
+
+  - **Dr. Elara Voss**: "Out of control? We need specifics, Vela. What were they experimenting on?"
+
+  - **Vela**: "Advanced AI integration with alien technology. The exact details are... fragmented."
+
+Their skepticism grows as Vela's answers become increasingly vague. Tensions rise as they approach the observatory, knowing that another formidable challenge awaits.
+
+#### _Location: The Observatory_
+
+The observatory is a vast, open space with large windows overlooking the stars. It was once used to study astronomical phenomena but now serves as a stronghold for one of The Hive's corrupted entities. As they enter, the environment changes, with gravity fluctuating unpredictably.
+
+- **Dialogue**:
+
+  - **Dr. Elara Voss**: "This place... it feels unstable. Be careful, Alex. The gravity here is being manipulated."
+
+  - **Alex Harper**: "I can feel it. Stay close, Dr. Voss."
+
+  - **Alex Harper**: "Vela, what's going on here? This place feels... off."
+
+  - **Vela**: "The gravity fields are being manipulated by an external force. Be prepared for anything, Alex."
+
+  - **Dr. Elara Voss**: "It's another corrupted entity. Be careful, Alex. This one controls the very space around us."
+
+#### Boss Encounter: The Singularity
+
+- **Environment**: The observatory is filled with floating debris, shifting gravity zones, and delicate control panels that the boss can manipulate to alter gravity fields.
+
+- **Abilities**:
+
+  - **Gravity Control**: The boss can manipulate gravity fields in the room, creating areas of high or low gravity to hinder Alex's movement.
+
+  - **Gravity Surge**: Sends out waves of gravitational force that push Alex away or pull her towards the boss.
+
+  - **Technological Manipulation**: The boss can interact with control panels to activate traps or modify gravity fields.
+
+  - **Energy Shield**: Utilizes a protective energy shield that absorbs damage. Destroying specific control panels temporarily disables the shield.
+
+- **Weakness Phase**:
+
+  - Destroying certain control panels disables the boss's ability to manipulate gravity temporarily and exposes weak points.
+
+  - While the boss is in a weakened state, Alex can deal increased damage for a short period before the boss regenerates and resumes its attacks.
+
+- **Strategy**:
+
+  - **Environmental Awareness**: Alex must stay vigilant and adapt to the changing gravity fields while avoiding traps and attacks.
+
+  - **Target Control Panels**: Identifying and destroying the control panels is key to disabling the boss's abilities and opening opportunities for attack.
+
+  - **Timing Attacks**: After disabling the boss's abilities, Alex must quickly capitalize on the opportunity to deal damage before the boss regains control of the gravity fields.
+
+- Dialogue During Battle:
+
+  - **The Singularity**: "You are but a pawn in The Hive's grand design! Gravity itself bends to my will!"
+
+  - **Alex Harper**: "We'll see how you handle a taste of my DarkStar!"
+
+  - **The Singularity**: "Struggle all you want, but you can't escape the pull of The Hive!"
+
+  - **Alex Harper**: "Watch me! I'm not just any pawn; I’m the new queen of the ISS Prodigium and The Hive will knee at my feet!"
+
+After a strategic battle of wit and skill, Alex manages to outmaneuver and defeat the Gravity Manipulator. With the technology under control and another component secured, Alex and Dr. Voss prepare to continue their journey deeper into the heart of the ship.
+
+- Dialogue:
+
+  - **Dr. Elara Voss**: "Impressive, Alex. You handled that situation with finesse."
+
+  - **Alex Harper**: "Thanks, but we still have a long way to go. Vela, any more surprises we should know about?"
+
+  - **Vela**: "I am constantly analyzing the ship's systems for any anomalies or threats. We must remain vigilant."
+
+With their resolve strengthened and their determination unyielding, Alex and Dr. Voss press onward, ready to face whatever challenges The Hive throws their way.
