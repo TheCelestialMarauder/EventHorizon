@@ -1,8 +1,6 @@
 <div align="center">
 
-# EventHorizon
-
-<img src="Logos\Logo-0002.png"/>
+<img src="Logos\Logo-0003.png"/>
 
 </div>
 
