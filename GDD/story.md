@@ -554,14 +554,60 @@ Vela escapes, leaving Alex and Dr. Voss stunned. Alex recovers from the shock, a
 
 - **Dialogue**:
 
-  - **Dr. Voss**: "Alex, are you okay?"
+  - **Dr. Elara Voss**: "Alex, are you okay?"
 
   - **Alex Harper**: "Yeah, I'm fine. What just happened?"
 
-  - **Dr. Voss**: "Vela has been using us to gather power. I think the components we’ve been collecting are enhancing her abilities. We need to stop her before she gets the remaining two components."
-
-  - **Dr. Voss**: "Those components... they’re designed to integrate with the AI core. If Vela gets all five, she will have total control over the ship and its systems."
+  - **Dr. Elara Voss**: "Vela has been using us to gather power. I think the components we’ve been collecting are enhancing her abilities. We need to stop her before she gets the remaining two components, they’re designed to integrate with the AI core. If Vela gets all five, she will have total control over the ship and its systems."
 
   - **Alex Harper**: "So we’ve been playing right into her hands. Where are the remaining components?"
 
-  - **Dr. Voss**: "One is in the engine room, and the last one is in the central command hub. We need to hurry."
+  - **Dr. Elara Voss**: "One is in the engine room, and the last one is in the central command hub. We need to hurry."
+
+### Scene 11: Crimson Behemoth
+
+#### _Location: Engine Room_
+
+Alex and Dr. Voss, now aware of the full extent of the threat, make their way to the engine room to secure the next component before Vela can reach it.
+
+- **Dialogue**:
+
+  - **Alex Harper**: "Stay close. We can't afford to let Vela get any stronger."
+
+  - **Dr. Voss**: "Agreed. We have to be prepared for anything."
+
+#### Boss Encounter: Crimson Behemoth
+
+- **Environment**: The engine room's layout is maze-like, with multiple levels and platforms. Crimson Behemoth, a heavily armored and cybernetically enhanced enemy, guards the component.
+
+- **Abilities**:
+
+  - **Energy Shield**: Crimson Behemoth has a powerful energy shield that deflects attacks.
+
+  - **Heavy Blaster**: Fires a powerful blaster that deals massive damage.
+
+  - **Shockwave Stomp**: Creates shockwaves by stomping, which knock Alex back.
+
+  - **Overcharge**: Temporarily increases its attack speed and damage.
+
+- **Weakness Phase**:
+
+  - **Disable Shield Nodes**: Similar to the previous boss, Alex must destroy shield nodes around the room to disable the shields.
+
+  - **Vulnerable Mode**: Once the shield is down, becomes vulnerable for a short period.
+
+  - **Aggressive Counterattack**: Crimson Behemoth becomes more aggressive when its shield is down, using melee attacks and overcharging its systems.
+
+- **Strategy**:
+
+  - Alex needs to navigate the hazardous environment while disabling the shield nodes.
+
+  - Timing is crucial to maximize damage during Crimson Behemoth’s vulnerable phase.
+
+  - Utilizing the environment for cover and positioning will be key to avoiding Crimson Behemoth's powerful attacks.
+
+- **Dialogue During Battle**:
+
+  - **Crimson Behemoth**: "You cannot stop the evolution of The Hive! Your struggle is futile!"
+
+  - **Alex Harper**: "If you are afraid just say it, but that doesn't mean i will back down."
