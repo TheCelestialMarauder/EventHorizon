@@ -1,4 +1,10 @@
-# :rocket: EventHorizon
+<div align="center">
+
+# EventHorizon
+
+<img src="Logos\Logo-0002.png"/>
+
+</div>
 
 Welcome to Event Horizon, a gripping sci-fi adventure and action game set in the vast, uncharted expanses of space. You step into the shoes of Alex Harper, a seasoned mercenary with a haunting past, as she embarks on a perilous mission aboard the derelict ISS Prodigium. Hired to rescue Dr. Elara Voss, Alex uncovers a sinister secret: an ancient alien AI known as The Hive has taken control of the ship, threatening to corrupt everything in its path.
 
@@ -26,4 +32,4 @@ For more detailed information of the design and the development of the game you 
 
 - **Email**: [z.naeem.shahzadi@gmail.com](z.naeem.shahzadi@gmail.com)
 - **Phone**: +34 634 19 98 43
-- **Twitter**: [@The_C_Marauder](https://x.com/The_C_Marauder)
+- **Twitter**: [The_C_Marauder](https://x.com/The_C_Marauder)
