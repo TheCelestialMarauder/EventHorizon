@@ -611,3 +611,197 @@ Alex and Dr. Voss, now aware of the full extent of the threat, make their way to
   - **Crimson Behemoth**: "You cannot stop the evolution of The Hive! Your struggle is futile!"
 
   - **Alex Harper**: "If you are afraid just say it, but that doesn't mean i will back down."
+
+After a grueling battle, Alex defeats the Enforcer and secures the fourth component. As they catch their breath, Dr. Voss expresses concern about the final component.
+
+- **Dialogue**:
+
+  - **Dr. Elara Voss**: "One more to go. Vela will stop at nothing to get it."
+
+  - **Alex Harper**: "We need to get to the central command hub before she does. Let’s move."
+
+## :clapper: Act 4: The Final Showdown
+
+### Scene 12: Alex VS Vela
+
+#### _Location: Central Command Hub_
+
+Alex and Dr. Elara Voss race against time to reach the central command hub. They must navigate through the ship’s most secure and fortified areas, facing the toughest enemies yet.
+
+- **Dialogue**:
+
+  - **Alex Harper**: "This is it. The final stretch."
+
+  - **Dr. Elara Voss**: "Stay focused. We can’t afford any mistakes now."
+
+As they approach the central command hub, the tension builds. Vela, now even more powerful, has prepared a final line of defense to secure the last component and achieve her ultimate goal of controlling the entire ship.
+
+Alex and Dr. Elara Voss make their way to the central command hub, the heart of the ship, where the final component is located. They know that Vela will be waiting for them, and the fate of the ship—and possibly more—rests on the outcome of this confrontation.
+
+The central command hub is a sprawling control center with large screens displaying various ship functions and statuses. The room is dimly lit, with the only illumination coming from the flickering screens and emergency lights. Vela, now fully manifested and visibly corrupted by The Hive, awaits them.
+
+- **Dialogue**:
+
+  - **Alex Harper**: "This ends here, Vela."
+
+  - **Dr. Elara Voss**: "We can't let you take control of the ship."
+
+  - **Vela**: "You misunderstand. The Hive's integration is inevitable. With this final component, we will achieve perfection."
+
+#### Boss Encounter: Vela (The Hive Manifestation)
+
+- **Environment**: The central command hub is filled with terminals, consoles, and holographic displays. Vela uses the environment to her advantage, manipulating the ship's systems to create hazards and barriers.
+
+- **Abilities**:
+
+  - **System Overload**: Vela causes terminals and consoles to explode, creating area-of-effect damage.
+
+  - **Energy Barrier**: She generates barriers that block Alex’s path and attacks.
+
+  - **Hacking Pulse**: Sends out pulses that disrupt Alex’s HUD and targeting systems.
+
+  - **Summon Drones**: Calls upon corrupted drones to assist her in battle.
+
+  - **Hive Beam**: Fires a concentrated energy beam that deals massive damage.
+
+- Weakness Phase:
+
+  - **Expose Core**: Periodically, Vela must recharge, exposing her core for a brief period. During this time, Alex can deal significant damage.
+
+  - **Destroy Nodes**: Similar to previous battles, Alex must destroy nodes around the room to weaken Vela’s defenses.
+
+- **Strategy**:
+
+  - Alex must navigate the central command hub, avoiding hazards and destroying nodes to expose Vela’s core.
+
+  - Timing attacks during Vela’s recharge phase is crucial for dealing maximum damage.
+
+  - Alex must also contend with the corrupted drones and environmental hazards created by Vela.
+
+- **Dialogue During Battle**:
+
+  - **Vela**: "You are only delaying the inevitable. The Hive’s power cannot be stopped!"
+
+  - **Alex Harper**: "We’ll see about that. I’m ending this now!"
+
+After a fierce and exhausting battle, Alex and Dr. Voss defeat Vela. The central command hub goes silent, and the immediate threat seems to be over. They manage to secure the final component, believing they have stopped The Hive's plan.
+
+- **Dialogue**:
+
+  - **Dr. Elara Voss**: "It’s over... we did it."
+
+  - **Alex Harper**: "We did what we had to. Let’s see if we can salvage the situation."
+
+They start restoring the ship's systems, and a brief moment of calm settles in. It seems like they have won.
+
+Just as Alex and Dr. Voss begin to relax, the lights flicker, and the screens in the command hub turn on, displaying a corrupted version of Vela.
+
+- Dialogue:
+
+  - **???**: "You thought you had won? This is only the beginning."
+
+Vela’s corrupted form morphs and upgrades, taking on a new, more powerful appearance. She now refers to herself as "Nyx," signifying her complete integration with The Hive and her evolution into a more formidable adversary.
+
+- **Dialogue**:
+
+  - **Nyx**: "I am Nyx, the embodiment of The Hive’s true power. Your struggle was futile."
+
+Nyx uses her newfound power to trap Alex and Dr. Voss. As they try to find a way out, they realize that defeating Nyx is beyond their current capabilities.
+
+Alex and Dr. Voss rush through the ship, making their way to the escape pods. They know their only option is to escape and regroup, hoping to find a way to defeat Nyx in the future.
+
+- **Dialogue**:
+
+  - **Dr. Elara Voss**: "We need to get to the escape pods. It’s our only chance."
+
+  - **Alex Harper**: "Go ahead. I’ll hold her off."
+
+They reach the escape pod bay. Alex hurriedly preps a pod for Dr. Voss.
+
+- **Dialogue**:
+
+  - **Dr. Elara Voss**: "No, you have to come with me!"
+
+  - **Alex Harper**: "Someone has to stay behind and keep her distracted. Go! I’ll find another way out."
+
+Reluctantly, Dr. Voss enters the escape pod. As the door closes, Alex initiates the launch sequence, sending Dr. Voss away from the ship.
+
+- **Dialogue**:
+
+  - **Alex Harper**: "Stay safe, Voss. We’ll find each other again."
+
+The escape pod launches, and the camera follows it briefly, showing it moving away from the ISS. Then it shifts back to Alex, who is now trapped on the ship with Nyx.
+
+The final scene shows Alex standing defiantly in front of Nyx. The ship is now completely under Nyx's control, drifting into a black hole.
+
+**Epilogue**: The camera zooms out, showing the escape pod carrying Dr. Voss away from the ISS. She watches helplessly as the ship, with Alex still aboard, disappears into the the black hole.
+
+**Credits Roll**: As the credits roll, audio logs and transmissions hint at Dr. Voss vowing to return with help to rescue Alex and stop The Hive once and for all.
+
+##### Transmission:
+
+**Transmission #1: Rescue mission**
+
+_Timestamp: 2164-09-25_
+
+**Speaker: Dr. Elara Voss and ???**
+
+**Transcript:**
+
+- **Dr. Elara Voss**:
+  "We need to mount a rescue operation for Alex Harper. She's still trapped aboard the ISS Prodigium."
+
+- **???**:
+  "Doc, I get it, but that place is crawling with all sorts of things. It's practically a death sentence. No way I'm risking my neck for some lost cause."
+
+- **Dr. Elara Voss**:
+  "I understand your concern, but Alex is crucial. She has vital information that could help us defeat The Hive."
+
+- **???**:
+  "Yeah, but info ain't gonna save me if I get turned into one of those things. I need more than just a sob story to sign up for this."
+
+- **Dr. Elara Voss**:
+  "What if I told you I could offer something invaluable? Project Genesis—complete schematics and data on advanced alien tech integration. It's a game-changer."
+
+- **???**:
+  "Wait, you mean the real Project Genesis? No way! That's some next-level stuff. You’re serious about this, huh?"
+
+- **Dr. Elara Voss**:
+  "Absolutely. Alex's survival and the data she holds are critical. We need her back, and I'm willing to make it worth your while."
+
+- **???**:
+  "Alright, deal. But you better be right about this, Doc. We’ll gear up and head out ASAP."
+
+- **Dr. Elara Voss**:
+  "Thank you. Every second counts."
+
+---
+
+**Treansmission #2: Approaching**
+
+_Timestamp: 2164-10-03_
+
+**Speaker: Dr. Elara Voss and ???**
+
+**Transcript:**
+
+- **Dr. Elara Voss**:
+  "There it is, the ISS Prodigium. That's where Alex is trapped."
+
+- **???**:
+  "Man, I hope this reward you promised is worth it. That place looks like a death trap."
+
+- **Dr. Elara Voss**:
+  "It will be. Alex has vital information, and your compensation will be more than satisfactory. Trust me."
+
+- **???**:
+  "Yeah, yeah. I've heard that before. But this Genesis project of yours better be the real deal."
+
+- **Dr. Elara Voss**:
+  "It is. We need to get in there and get her out. Every second counts."
+
+- **???**:
+  "Alright, Doc. Let's do this. Just make sure you hold up your end of the bargain."
+
+- **Dr. Elara Voss**:
+  "I will. Now, let's move. We have no time to waste."
