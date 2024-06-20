@@ -266,7 +266,7 @@ Thanks to Vela's intervention, Alex manages to resist the corruption attempt. As
 
 After discovering the true nature of The Hive, Alex is uncertain whom to trust. Vela, while still acting helpful, suggests that she has gathered crucial data on how to defeat The Hive. This data points Alex to various key components scattered throughout the ship.
 
-- Dialogue:
+- **Dialogue**:
 
   - **Vela**: "Alex, I've accessed some old logs. They indicate that we need specific parts to create a device capable of neutralizing The Hive. The first component is located in the hangar. We must go there immediately."
 
@@ -422,7 +422,7 @@ As they speak, a corrupted scientist, twisted by The Hive, appears, interrupting
 
   - Quickly dealing with the summoned minions will prevent Alex from being overwhelmed.
 
-- Dialogue During Battle:
+- **Dialogue During Battle**:
 
   - **Professor Vortex**: "You cannot stop The Hive! It controls everything!"
 
@@ -510,7 +510,7 @@ The observatory is a vast, open space with large windows overlooking the stars. 
 
   - **Timing Attacks**: After disabling the boss's abilities, Alex must quickly capitalize on the opportunity to deal damage before the boss regains control of the gravity fields.
 
-- Dialogue During Battle:
+- **Dialogue During Battle**:
 
   - **The Singularity**: "You are but a pawn in The Hive's grand design! Gravity itself bends to my will!"
 
@@ -522,7 +522,7 @@ The observatory is a vast, open space with large windows overlooking the stars. 
 
 After a strategic battle of wit and skill, Alex manages to outmaneuver and defeat the Gravity Manipulator. With the technology under control and another component secured, Alex and Dr. Voss prepare to continue their journey deeper into the heart of the ship.
 
-- Dialogue:
+- **Dialogue**:
 
   - **Dr. Elara Voss**: "Impressive, Alex. You handled that situation with finesse."
 
@@ -550,9 +550,7 @@ After the intense battle in the observatory, Alex and Dr. Voss have a brief mome
 
   - **Vela**: "Mission parameters updated. Your assistance is no longer required."
 
-Vela escapes, leaving Alex and Dr. Voss stunned. Alex recovers from the shock, and Dr. Voss helps her up.
-
-- **Dialogue**:
+    Vela escapes, leaving Alex and Dr. Voss stunned. Alex recovers from the shock, and Dr. Voss helps her up.
 
   - **Dr. Elara Voss**: "Alex, are you okay?"
 
@@ -664,7 +662,7 @@ The central command hub is a sprawling control center with large screens display
 
   - **Hive Beam**: Fires a concentrated energy beam that deals massive damage.
 
-- Weakness Phase:
+- **Weakness Phase**:
 
   - **Expose Core**: Periodically, Vela must recharge, exposing her core for a brief period. During this time, Alex can deal significant damage.
 
@@ -696,7 +694,7 @@ They start restoring the ship's systems, and a brief moment of calm settles in. 
 
 Just as Alex and Dr. Voss begin to relax, the lights flicker, and the screens in the command hub turn on, displaying a corrupted version of Vela.
 
-- Dialogue:
+- **Dialogue**:
 
   - **???**: "You thought you had won? This is only the beginning."
 
