@@ -1,10 +1,11 @@
 # Characters
 
-## :crossed_swords: Alex Harper
+## :crossed_swords: Alex Harper (The VoidWalker)
 
 ### :open_book: Background and Story
 
 - **Name**: Alex Harper
+- **Nickname**: VoidWalker
 - **Age**: 32
 - **Occupation**: Mercenary and former special forces operative
 - **Personality**: Determined, resourceful, courageous, and loyal
