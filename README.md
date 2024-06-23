@@ -4,7 +4,7 @@
 
 </div>
 
-Welcome to Event Horizon, a gripping sci-fi adventure and action game set in the vast, uncharted expanses of space. You step into the shoes of Alex Harper, a seasoned mercenary with a haunting past, as she embarks on a perilous mission aboard the derelict ISS Prodigium. Hired to rescue Dr. Elara Voss, Alex uncovers a sinister secret: an ancient alien AI known as The Hive has taken control of the ship, threatening to corrupt everything in its path.
+Welcome to Event Horizon, a gripping sci-fi adventure and action open-source game set in the vast, uncharted expanses of space. You step into the shoes of Alex Harper, a seasoned mercenary with a haunting past, as she embarks on a perilous mission aboard the derelict ISS Prodigium. Hired to rescue Dr. Elara Voss, Alex uncovers a sinister secret: an ancient alien AI known as The Hive has taken control of the ship, threatening to corrupt everything in its path.
 
 - **Engaging Storyline**: Experience a rich narrative that blends elements of horror, mystery, and sci-fi. Follow Alex from her traumatic childhood during a galactic war to her desperate struggle for survival against The Hive's corrupted forces.
 
