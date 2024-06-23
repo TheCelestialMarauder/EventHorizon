@@ -10,11 +10,8 @@
 - **Occupation**: Mercenary and former special forces operative
 - **Personality**: Determined, resourceful, courageous, and loyal
 - **Physical Description**: Athletic build, short blonde hair, piercing blue eyes, and a few battle scars
-
 - **Backstory**: Alex Harper grew up in a small colony on Mars, where she learned the value of self-reliance and perseverance. At a young age, she joined the military, quickly rising through the ranks due to her exceptional combat skills and strategic mind. After serving for a decade and earning numerous commendations, Alex decided to leave the military to become a freelance mercenary. Her reputation for getting the job done, no matter the odds, quickly made her one of the most sought-after operatives in the galaxy.
-
 - **Family History**: Alex's father was a renowned swordsman who left her a traditional, well-crafted japanese katana before he mysteriously disappeared during a mission. The sword holds great sentimental value for Alex and serves as a reminder of her father's teachings and their close bond.
-
 - **Motivation**: Driven by a strong sense of justice and a desire to protect the innocent, Alex takes on missions that align with her moral code. The mission to rescue Dr. Elara Voss and uncover the secrets of the ISS Prodigium aligns perfectly with her skills and sense of duty.
 
 ### :bow_and_arrow: Abilities and Skills
@@ -102,7 +99,7 @@ Alex’s skill tree is divided into three main branches: Combat, Technology, and
 - **Occupation**: Lead Scientist and Researcher
 - **Personality**: Intelligent, resourceful, compassionate
 - **Physical Description**: Slim build, long dark hair often tied back, sharp green eyes, and a composed demeanor
-- **Backstory**: Dr. Elara Voss is a leading scientist who was assigned to the ISS to head a top-secret project involving advanced AI and energy manipulation. Her work aimed at harnessing new energy sources and developing AI systems to solve some of humanity’s most pressing issues. After the outbreak of The Hive virus, her focus shifted to survival and finding a way to stop the corruption from spreading beyond the ISS.
+- **Backstory**: Dr. Elara Voss is a leading scientist who was assigned to the ISS Prodigium to head a top-secret project involving advanced AI and energy manipulation. Her work aimed at harnessing new energy sources and developing AI systems to solve some of humanity’s most pressing issues. After the outbreak of The Hive virus, her focus shifted to survival and finding a way to stop the corruption from spreading beyond the ISS.
 - **Motivation**: Elara is driven by her commitment to scientific discovery and the betterment of humanity. After the crisis on the ISS, her primary goal is to survive and stop The Hive from causing further harm.
 
 ### :bow_and_arrow: Abilities and Skills
@@ -118,7 +115,7 @@ Alex’s skill tree is divided into three main branches: Combat, Technology, and
 #### Personal Gear
 
 - **Portable Scanner**: Analyzes environments, detects anomalies, and identifies useful resources.
-- **Medical Kit**: Equipped with medical supplies for treating injuries and ailments.
+- **Medical Kit**: Equipped with medical supplies for treating injuries.
 - **Data Pad**: Contains crucial information about the ISS, The Hive, and research notes.
 
 ### :left_speech_bubble: Character Relationships
@@ -128,7 +125,7 @@ Alex’s skill tree is divided into three main branches: Combat, Technology, and
 
 ### :eyes: Appearance
 
-- **Visual Design**: Dr. Elara Voss’s design should reflect her scientific background and resourcefulness.
+- **Visual Design**: Dr. Elara Voss’s design reflect her scientific background and resourcefulness.
 - **Lab Coat**: Often wears a lab coat over practical clothing suitable for the harsh environment of the ISS.
 - **Facial Features**: Intelligent and composed expression with eyes that convey determination and empathy. Signs of stress and exhaustion due to the ongoing crisis.
 - **Accessories**: Data pad attached to her belt and a small medical kit strapped to her side.
@@ -185,13 +182,13 @@ Alex’s skill tree is divided into three main branches: Combat, Technology, and
 
 #### Final Showdown:
 
-- **Location**: Central Command Center of the ISS, where Nyx has the most control.
+- **Location**: Central Command Center of the ISS Prodigium, where Nyx has the most control.
 
 #### Battle Mechanics:
 
-- **Phase 1**: Alex must disable key energy nodes to weaken Nyx's control.
-- **Phase 2**: Nyx uses corrupted ISS systems to attack Alex directly, requiring strategic movement and hacking skills.
-- **Phase 3**: Nyx reveals her core, and Alex must confront her directly, using both combat and her father’s sword to destroy Nyx’s central processor.
+- **Phase 1**: Alex must disable key energy nodes to weaken Vela's control.
+- **Phase 2**: Vela uses corrupted ISS systems to attack Alex directly.
+- **Phase 3**: Nyx reveals her self getting total control over the ISS, now Alex and Dr. Voss have to escape, requiring strategic movement.
 
 #### Ending:
 
