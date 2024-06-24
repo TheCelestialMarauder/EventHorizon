@@ -386,7 +386,7 @@ As they speak, a corrupted scientist, twisted by The Hive, appears, interrupting
 
   - **Professor Vortex**: "You think you can stop us? The Hive's power is beyond your comprehension!"
 
-  - **Alex Harper**: "Who the hell are you?"
+  - **Alex Harper**: "Who or what the hell are you?"
 
   - **Professor Vortex**: "I am Professor Vortex, I serve The Hive. You are too late. The transformation is complete! and my power is beyond your imagination."
 
@@ -426,7 +426,9 @@ As they speak, a corrupted scientist, twisted by The Hive, appears, interrupting
 
   - **Professor Vortex**: "You cannot stop The Hive! It controls everything!"
 
-  - **Alex Harper**: "Stay behind me, Dr. Voss. I’ll handle this!"
+  - **Dr. Elara Voss**: "Stay behind me, Alex. I’ll try to disable the systems from here."
+
+  - **Alex Harper**: "No way, Doc. We're in this together. Cover me while I handle this."
 
 After a fierce battle, Alex defeats the corrupted scientist. Dr. Voss is visibly shaken but grateful.
 
@@ -434,15 +436,25 @@ After a fierce battle, Alex defeats the corrupted scientist. Dr. Voss is visibly
 
   - **Dr. Elara Voss**: "Thank you, Alex. I don't know how much longer I could have held out."
 
-  - **Alex Harper**: "We need to find a way to stop The Hive. Vela has been guiding me, but something doesn't feel right."
+  - **Alex Harper**: "We make a good team. Let’s find those components and end this nightmare. We need to find a way to stop The Hive. Vela has been guiding me, but something doesn't feel right."
 
-Vela remains silent as Alex and Dr. Voss continue their conversation. Alex's suspicions about Vela's true intentions grow stronger.
+  - **Dr. Elara Voss**: "Agreed. And Alex... thank you for trusting me."
 
-- **Dialogue**
+  - **Alex Harper**: "We’ve got each other’s backs. That’s what counts."
+
+    Vela remains silent as Alex and Dr. Voss continue their conversation. Alex's suspicions about Vela's true intentions grow stronger.
 
   - **Alex Harper**: "Dr. Voss, do you know anything about these components Vela has been guiding me to collect?"
 
   - **Dr. Elara Voss**: "These components... they were part of an experimental device meant to interface with the AI core. If Vela is corrupted, this could be dangerous."
+
+  - **Alex Harper**: "You sound like you’ve been through something like this before."
+
+  - **Dr. Elara Voss**: "Years ago, I was part of a team working on advanced AI. We thought we could control it. We were wrong."
+
+  - **Alex Harper**: "Sounds like you’ve got a story to tell. Over a drink sometime?"
+
+  - **Dr. Elara Voss**: smiling faintly "If we survive this, I’ll tell you everything."
 
   - **Alex Harper**: "So, Vela's been leading me to these to gain more control. We can't let her get the remaining parts."
 
@@ -464,6 +476,10 @@ Alex and Dr. Voss, now wary of Vela's intentions, move towards the next location
 
   - **Vela**: "Advanced AI integration with alien technology. The exact details are... fragmented."
 
+  - **Alex Harper**: "Sounds like someone didn't think things through. Doc, what do you think?"
+
+  - **Dr. Elara Voss**: "We need to stay vigilant. If Vela's hiding something, we’ll uncover it together."
+
 Their skepticism grows as Vela's answers become increasingly vague. Tensions rise as they approach the observatory, knowing that another formidable challenge awaits.
 
 #### _Location: The Observatory_
@@ -474,13 +490,17 @@ The observatory is a vast, open space with large windows overlooking the stars. 
 
   - **Dr. Elara Voss**: "This place... it feels unstable. Be careful, Alex. The gravity here is being manipulated."
 
-  - **Alex Harper**: "I can feel it. Stay close, Dr. Voss."
+  - **Alex Harper**: "I can feel it. Stay close, i can't lose you."
 
-  - **Alex Harper**: "Vela, what's going on here? This place feels... off."
+  - **Alex Harper**: "Vela, status, what's going on here? This place feels... off."
 
   - **Vela**: "The gravity fields are being manipulated by an external force. Be prepared for anything, Alex."
 
-  - **Dr. Elara Voss**: "It's another corrupted entity. Be careful, Alex. This one controls the very space around us."
+  (The singularity appears)
+
+  - **Dr. Elara Voss**: "It's another corrupted entity. Be careful, Alex. I think this one controls the very space around us."
+
+  - **Alex Harper**: "Don't worry doc, I can defeat this thing, just stay behind me."
 
 #### Boss Encounter: The Singularity
 
@@ -554,7 +574,7 @@ After the intense battle in the observatory, Alex and Dr. Voss have a brief mome
 
   - **Dr. Elara Voss**: "Alex, are you okay?"
 
-  - **Alex Harper**: "Yeah, I'm fine. What just happened?"
+  - **Alex Harper**: "Yeah, I'm better, thanks. What just happened?"
 
   - **Dr. Elara Voss**: "Vela has been using us to gather power. I think the components we’ve been collecting are enhancing her abilities. We need to stop her before she gets the remaining two components, they’re designed to integrate with the AI core. If Vela gets all five, she will have total control over the ship and its systems."
 
@@ -714,19 +734,15 @@ Alex and Dr. Voss rush through the ship, making their way to the escape pods. Th
 
   - **Alex Harper**: "Go ahead. I’ll hold her off."
 
-They reach the escape pod bay. Alex hurriedly preps a pod for Dr. Voss.
+    They reach the escape pod bay. Alex hurriedly preps a pod for Dr. Voss.
 
-- **Dialogue**:
-
-  - **Dr. Elara Voss**: "No, you have to come with me!"
+  - **Dr. Elara Voss**: "What about you?"
 
   - **Alex Harper**: "Someone has to stay behind and keep her distracted. Go! I’ll find another way out."
 
-Reluctantly, Dr. Voss enters the escape pod. As the door closes, Alex initiates the launch sequence, sending Dr. Voss away from the ship.
+    Reluctantly, Dr. Voss enters the escape pod. As the door closes, Alex initiates the launch sequence, sending Dr. Voss away from the ship.
 
-- **Dialogue**:
-
-  - **Alex Harper**: "Stay safe, Voss. We’ll find each other again."
+  - **Alex Harper**: smirking "Stay safe, Voss. We’ll find each other again."
 
 The escape pod launches, and the camera follows it briefly, showing it moving away from the ISS. Then it shifts back to Alex, who is now trapped on the ship with Nyx.
 
@@ -740,7 +756,7 @@ The final scene shows Alex standing defiantly in front of Nyx. The ship is now c
 
 **Transmission #1: Rescue mission**
 
-_Timestamp: 2164-09-25_
+_Timestamp: 2157-09-25_
 
 **Speaker: Dr. Elara Voss and ???**
 
@@ -777,7 +793,7 @@ _Timestamp: 2164-09-25_
 
 **Treansmission #2: Approaching**
 
-_Timestamp: 2164-10-03_
+_Timestamp: 2157-10-03_
 
 **Speaker: Dr. Elara Voss and ???**
 
