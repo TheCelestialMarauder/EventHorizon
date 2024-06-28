@@ -193,3 +193,66 @@ Alex’s skill tree is divided into three main branches: Combat, Technology, and
 #### Ending:
 
 - **Aftermath**: Despite seemingly defeating Nyx, Alex and Dr. Voss realize that Nyx has managed to lock down the escape routes. In a desperate bid to save Dr. Voss, Alex places her in an escape pod, ensuring her safety. As Dr. Voss escapes, the camera pulls back to show Alex trapped on the ISS, facing an uncertain fate as Nyx's remnants lurk in the shadows.
+
+## The Dreadnova and The Celestial Marauder
+
+### Phase 1: The Dreadnova
+
+- **Name**: The Dreadnova
+- **Appearance**: A massive, heavily-armored combat ship with a sleek, ominous design. It is predominantly dark purple with accents of golden yellow, giving it a regal yet sinister look. The ship has multiple weapon ports and a shimmering energy shield.
+
+- **Background and Story**
+
+  - **History**: The Dreadnova is a prototype combat vessel developed by a rogue faction within the ISS. Designed for both offense and defense, it was equipped with cutting-edge technology and advanced weaponry. However, during a mission, it was corrupted by The Hive and turned into a formidable enemy.
+
+  - **Role in Story**: The Dreadnova serves as a major obstacle for Alex as they attempt to navigate the ISS. Its advanced systems are now under the control of The Hive, making it a deadly adversary.
+
+- **Abilities**
+
+  - **Cannon Barrage**: Fires a series of powerful cannon shots in a wide arc, dealing heavy damage.
+
+  - **Missile Swarm**: Launches a barrage of guided missiles that track Alex's movements, requiring quick reflexes to evade.
+
+  - **Energy Shield**: Activates a temporary shield that absorbs damage, making the ship invulnerable for short periods.
+
+  - **Shockwave Blast**: Releases a shockwave that pushes Alex back and causes area damage.
+
+- **Strategy**
+
+  - **Cover Utilization**: Alex must use the scattered crates and broken
+    machinery as cover to avoid the heavy firepower of The Dreadnova.
+
+  - **Weak Point Targeting**: Focusing on weak points like the engines or weapon systems can temporarily disable some of its abilities.
+
+  - **Timing**: Alex needs to time her attacks between the activation of the Energy Shield and other offensive abilities.
+
+### Phase 2: The Celestial Marauder
+
+- Name: The Celestial Marauder
+- Appearance: After the destruction of The Dreadnova, the pilot emerges wearing a dark purple and golden yellow exosuit. The exosuit is sleek and fitted with advanced tech, giving the pilot enhanced agility and combat capabilities.
+
+- **Background and Story**
+
+  - **History**: The Celestial Marauder was once a celebrated pilot and engineer, known for their expertise in both starship combat and close-quarters battle. After being corrupted by The Hive, they became a formidable warrior, blending their skills with the advanced technology of the exosuit.
+
+  - **Role in Story**: As the pilot of The Dreadnova, the Celestial Marauder represents the personal, human element of The Hive's corruption. Their transformation into a corrupted warrior emphasizes the pervasive threat of The Hive.
+
+- **Abilities**
+
+  - **Swift Strike**: Delivers rapid sword slashes that deal high damage, requiring precise dodges.
+
+  - **Defensive Stance**: Reduces incoming damage and prevents stagger, making the Marauder temporarily invulnerable.
+
+  - **Whirlwind Slash**: Spins and attacks in a wide radius, hitting multiple times.
+
+  - **Counter Slash**: Counters Alex's attacks with precise, powerful strikes, punishing reckless aggression.
+
+  - **Blade Storm**: Unleashes a flurry of sword strikes in all directions, creating a deadly storm of blades.
+
+- **Strategy**
+
+  - **Dodging and Timing**: Alex must time her dodges carefully to avoid the pilot's rapid attacks and counterattacks.
+
+  - **Maintaining Distance**: Utilizing ranged attacks and maintaining distance can help avoid the Celestial Marauder's powerful melee strikes.
+
+  - **Exploiting Vulnerabilities**: After heavy attacks, the pilot has moments of vulnerability that Alex can exploit to deal significant damage.
