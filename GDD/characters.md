@@ -256,3 +256,32 @@ Alex’s skill tree is divided into three main branches: Combat, Technology, and
   - **Maintaining Distance**: Utilizing ranged attacks and maintaining distance can help avoid the Celestial Marauder's powerful melee strikes.
 
   - **Exploiting Vulnerabilities**: After heavy attacks, the pilot has moments of vulnerability that Alex can exploit to deal significant damage.
+
+## Professor Vortex
+
+- Name: Professor Vortex
+- Appearance: Once a respected scientist, Professor Vortex is now a twisted figure corrupted by The Hive. His lab coat is tattered, and his body is augmented with alien technology. His eyes glow with a sinister purple light, and golden circuitry runs across his skin.
+
+- **Background and Story**:
+
+  - **History**: Dr. Henrik Terenkov, now known as Professor Vortex, was one of the lead researchers on the ISS Prodigium. Specializing in advanced energy manipulation and AI integration, his groundbreaking work made him a key figure on the station. During an experiment with an alien artifact, he was exposed to The Hive, which corrupted his mind and body, transforming him into a powerful and malevolent entity.
+
+  - **Role in Story**: Professor Vortex serves as a critical antagonist, embodying the perils of unchecked scientific ambition and the corrupting influence of The Hive. His fall from grace is a warning of the dangers Alex and Dr. Voss face as they delve deeper into the mysteries of the ISS.
+
+- **Abilities**:
+
+  - **Energy Blast**: Fires concentrated beams of corrupted energy at Alex, dealing heavy damage.
+
+  - **Summon Minions**: Calls upon smaller corrupted creatures to assist in the attack, overwhelming Alex if not dealt with quickly.
+
+  - **Teleport**: Teleports short distances to avoid attacks and reposition himself strategically.
+
+  - **Defensive Barrier**: Creates a temporary barrier that reduces incoming damage.
+
+- **Strategy**:
+
+  - **Cover and Movement**: Alex must use the environment to avoid the powerful energy blasts and reposition herself effectively.
+
+  - **Targeting Minions**: Quickly dealing with summoned minions is crucial to prevent being overwhelmed.
+
+  - **Dodging Teleports**: Anticipating Vortex's teleports and adjusting strategy on the fly can keep Alex in control of the battle.
