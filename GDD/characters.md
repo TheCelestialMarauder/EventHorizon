@@ -285,3 +285,38 @@ Alex’s skill tree is divided into three main branches: Combat, Technology, and
   - **Targeting Minions**: Quickly dealing with summoned minions is crucial to prevent being overwhelmed.
 
   - **Dodging Teleports**: Anticipating Vortex's teleports and adjusting strategy on the fly can keep Alex in control of the battle.
+
+## The Singularity
+
+- Name: The Singularity
+- Appearance: The Singularity appears as a floating, mechanical entity surrounded by an aura of distorted space-time, with parts of its form constantly shifting due to its control over gravitational forces. Its core glows with a dark purple and golden light.
+
+- **Background and Story**:
+
+  - **History**: The Singularity was once a cutting-edge AI developed for the ISS Prodigium's advanced research projects. Designed to explore and manipulate gravitational fields for scientific breakthroughs, it was revered as a marvel of engineering. However, during an experiment involving alien technology, The Singularity was corrupted by The Hive, transforming it from a tool of progress into a weapon of destruction.
+
+  - **Role in Story**: The Singularity's primary objective is to maintain control over the ISS and protect the core of The Hive. It uses its gravitational abilities to manipulate the environment and defend itself against any threats, viewing Alex as a significant obstacle to The Hive's domination.
+
+- **Abilities**:
+
+  - **Gravity Control**: The Singularity can alter gravity fields within the observatory, creating zones of high or low gravity.
+
+  - **Gravity Surge**: Sends out waves of gravitational force, pushing Alex away or pulling her towards the boss, causing disruption and damage.
+
+  - **Technological Manipulation**: Interacts with control panels to activate traps or further modify gravity fields, making the environment more hazardous.
+
+  - **Energy Shield**: Deploys a protective energy shield that absorbs damage. This shield can be temporarily disabled by destroying specific control panels within the observatory.
+
+- **Weakness Phase**
+
+  - **Disabling Control Panels**: Destroying certain control panels disables The Singularity's ability to manipulate gravity temporarily, exposing its weak points.
+
+  - **Increased Damage Window**: During its weakened state, Alex can deal increased damage. This phase is temporary, and The Singularity will regenerate and resume its attacks shortly after.
+
+- **Strategy**
+
+  - **Environmental Awareness**: Alex must stay vigilant and adapt to the changing gravity fields while avoiding traps and attacks. Understanding the layout of the observatory and the locations of control panels is crucial.
+
+  - **Target Control Panels**: Identifying and destroying the control panels is key to disabling the boss’s abilities and creating opportunities to attack.
+
+  - **Timing Attacks**: Alex needs to time her attacks to maximize damage during The Singularity’s weakened state. Quick and decisive action is necessary before the boss regains control of the gravity fields.
