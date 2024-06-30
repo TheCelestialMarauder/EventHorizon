@@ -320,3 +320,34 @@ Alex’s skill tree is divided into three main branches: Combat, Technology, and
   - **Target Control Panels**: Identifying and destroying the control panels is key to disabling the boss’s abilities and creating opportunities to attack.
 
   - **Timing Attacks**: Alex needs to time her attacks to maximize damage during The Singularity’s weakened state. Quick and decisive action is necessary before the boss regains control of the gravity fields.
+
+## Crimson Behemoth
+
+- Name: Crimson Behemoth
+- Appearance: A towering, heavily armored entity with cybernetic enhancements glowing in dark purple and golden hues. Its armor is thick and nearly impenetrable, with visible energy conduits pulsing with power.
+
+- **Background and Story**:
+
+  - **History**: The Crimson Behemoth was once a formidable warrior who volunteered for cybernetic enhancements to increase their power and combat abilities. During an experimental augmentation involving alien technology, they were corrupted by The Hive, transforming into the monstrous Crimson Behemoth.
+
+  - **Story**: This entity serves as a guardian of The Hive, stationed in the engine room of the ISS Prodigium to protect vital components and prevent any interference from Alex Harper.
+
+- **Abilities**:
+
+  - **Energy Shield**: The Crimson Behemoth is equipped with a powerful energy shield that deflects incoming attacks. The shield is powered by nodes scattered around the engine room.
+
+  - **Heavy Blaster**: Fires a powerful blaster that deals massive damage, capable of destroying cover and severely injuring Alex.
+
+  - **Shockwave Stomp**: Creates shockwaves by stomping on the ground, which knock Alex back and cause damage.
+
+  - **Overcharge**: Temporarily increases its attack speed and damage output, making it more dangerous.
+
+- **Strategy**
+
+  - **Environmental Awareness**: The engine room is a hazardous environment with multiple levels and platforms. Alex needs to navigate this maze-like layout while avoiding the Crimson Behemoth's powerful attacks.
+
+  - **Target Shield Nodes**: Identifying and destroying the shield nodes is crucial to disabling the Crimson Behemoth's defenses and creating opportunities to attack.
+
+  - **Timing Attacks**: Alex must time her attacks to maximize damage during the Crimson Behemoth’s vulnerable phase. Quick and decisive action is necessary before the boss regains its shield.
+
+  - **Utilizing Cover and Positioning**: Using the environment for cover and positioning will help Alex avoid the Crimson Behemoth's heavy blaster and shockwave attacks.
