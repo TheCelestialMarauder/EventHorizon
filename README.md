@@ -22,7 +22,7 @@ For more detailed information of the design and the development of the game you 
 
 - :bust_in_silhouette: [Characters](GDD/characters.md)
 - :book: [Story and more](GDD/story.md)
-- :video_game: [Game mechanics (in process)]()
+- :video_game: [Game mechanics](GDD/mechanics.md)
 - :art: [Art and sound (in process)]()
 - :trophy: [Credits (in process)]()
 
