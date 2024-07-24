@@ -4,42 +4,49 @@
 
 - **Movement**
 
-  - **Player movement**: The player can use the arrow keys to move Alex, also can use "WASD" to do the same.
+  - _Player Movement_: The character can be moved using the arrow keys or the "WASD" keys. This allows for flexible control schemes catering to player preferences.
 
-  - **Special moves**: The player can use other keys to make a dash or sprint.
+  - _Special Movement_:
+    - _Dash_: The "F" key triggers a dash move, propelling the character swiftly towards the direction of the mouse pointer. This can be used for quick escapes or to close gaps rapidly.
+    - _Sprint_: Holding down the Shift key enables the character to sprint. Sprinting increases the character's movement speed significantly and is infinite in duration. Pressing the Shift key again will cancel the sprint.
 
 - **Combat**
 
-  - **Melee combat**: The player can use the right click to make a fas melee attack.
+  - _Close Combat_: Melee attacks are vital for surviving close encounters. These attacks do minimal damage but are effective in pushing enemies away, creating space for strategic positioning or retreat.
+  - _Distance Combat_:
+    - _Energy Pistol_: The primary ranged weapon is an energy-based automatic pistol. This pistol has different types of shots that can be selected and changed through the skill tree. Players can customize their weapon to suit their playstyle and can revert changes if desired. Types of shots may include standard energy blasts, piercing shots, explosive rounds, and more, each with unique effects and advantages.
+    - _Grenades_:
+      - _Standard Grenade_: Deals high damage within its explosion radius. Players need to be cautious, as being within the blast range will cause them to take damage as well.
+      - _Flash Bang Grenade_: Emits a blinding flash and a loud bang that slows down enemies within its range. Players must also be cautious to avoid its effects, as it can slow them down if they are within its range.
 
-  - **Distance combat**: The player can use Alex gun to attack enemies from a safe distance, the type of projectile can change depending on the skills from the skill tree.
+- **Health and Shields**
 
-  - **Granades**: The player can use a granade to make a lot of damage in few seconds.
+  - _Health_: Health can be found throughout the map in the form of health packs or other restorative items. Health determines the player's survivability, and running out of health will result in the player's death.
 
-- **Health and shields**
+  - _Shield_: Shields provide an additional layer of protection and can also be found around the map. Shields absorb damage before health is affected, offering a strategic buffer in combat. Both health and shields can be replenished by finding respective items scattered throughout the environment.
 
-  - **Health**: The player have a limited health bar and will reduce if an enemy attack hit the player, health can be recovered with health packs, these are speared around the ship.
+- **Environment Interactions**
 
-  - **Shield**: The player can have an extra bar of shield, this bar acts like the other but the shields are more difficult to find.
+  - _Cover_: Players can take cover behind objects to avoid enemy fire. The cover system provides strategic advantages and encourages tactical gameplay.
 
-- **Environment interactions**
+  - _Interactive Objects_: The game world includes objects that players can interact with, such as doors, switches, and items that can be picked up or manipulated.
 
-  - **Cover**: The player can use some objects from the map as cover to avoid damage.
+  - _Destructible Objects_: Certain objects in the environment can be destroyed, affecting the battlefield dynamically. This can be used to create new pathways or eliminate enemy cover.
 
-  - **Interactive objects**: The player can use come objects like levers, buttons, terminals and more to active things like open doors or deactivate traps.
+- **Enemy Behavior**
 
-  - **Destructible objects**: Certain objects can be destroyed to clear paths obtain shields or health packs.
+  - **Enemy Types**
 
-- **Enemy behavior**
+    - _Basic Enemies_: Standard foes with simple attack patterns.
+    - _Ranged Enemies_: Attack from a distance, requiring the player to use cover and strategy.
+    - _Melee Enemies_: Engage in close combat, pushing the player to maintain distance.
 
-  - **Enemy types**: Around all the ship there would be different types of enemies depending on the zone, every type would have different type of abilities an strategies to defeat the player.
+  - _Mini Bosses_: Tougher enemies with more complex attack patterns and higher health, serving as mid-level challenges.
 
-  - **Mini Boss**: In some specific zones there will be some mini bosses that are optional, these bosses will give a lot of xp to the player if are defeated, but they did not affect the story.
-
-  - **Bosses**: Every boss will have there own room and they will have different abilities and will need different skills from the player to be defeated.
+  - _Bosses_: Major adversaries with unique abilities, multi-phase battles, and significant narrative importance. [More info](GDD/characters.md)
 
 - **Progression and Upgrades**
 
-  - **Experience points (XP)**: XP will be obtained by defeating enemies and collecting some collectibles, XP will be used to unlock abilities from the skill tree.
+  - _Experience Points (XP)_: Players earn XP by defeating enemies and completing objectives. XP is used to level up and unlock new abilities.
 
-  - **Skill Tree**: There will be multiple skill trees for different types of gameplay.
+  - _Skill Tree_: The skill tree allows players to customize their character's abilities and weapon types. Through the skill tree, players can unlock different types of shots for the energy pistol and other abilities. This allows for a tailored combat experience and strategic flexibility.
