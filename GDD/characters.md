@@ -8,8 +8,8 @@
 - **Nickname**: VoidWalker
 - **Age**: 32
 - **Occupation**: Mercenary and former special forces operative
-- **Personality**: Determined, resourceful, courageous, and loyal
-- **Physical Description**: Athletic build, short blonde hair, piercing blue eyes, and a few battle scars
+- **Personality**:
+- **Physical Description**:
 - **Backstory**: Alex Harper grew up in a small colony on Mars, where she learned the value of self-reliance and perseverance. At a young age, she joined the military, quickly rising through the ranks due to her exceptional combat skills and strategic mind. After serving for a decade and earning numerous commendations, Alex decided to leave the military to become a freelance mercenary. Her reputation for getting the job done, no matter the odds, quickly made her one of the most sought-after operatives in the galaxy.
 - **Family History**: Alex's father was a renowned swordsman who left her a traditional, well-crafted japanese katana before he mysteriously disappeared during a mission. The sword holds great sentimental value for Alex and serves as a reminder of her father's teachings and their close bond.
 - **Motivation**: Driven by a strong sense of justice and a desire to protect the innocent, Alex takes on missions that align with her moral code. The mission to rescue Dr. Elara Voss and uncover the secrets of the ISS Prodigium aligns perfectly with her skills and sense of duty.
