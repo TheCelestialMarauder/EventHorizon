@@ -4,11 +4,23 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
-    public float lifetime = 2f; // Time in seconds before the bullet is destroyed
+    public float bulletSpeed = 20f; // Speed of the bullet
+
+    private Rigidbody2D rb;
 
     void Start()
     {
-        // Destroy the bullet after 'lifetime' seconds
-        Destroy(gameObject, lifetime);
+        rb = GetComponent<Rigidbody2D>();
+
+        rb.velocity = transform.up * bulletSpeed;
+
+        Destroy(gameObject, 2f);
+    }
+
+    void OnTriggerEnter2D(Collider2D hitInfo)
+    {
+        Destroy(gameObject);
+
     }
 }
+
