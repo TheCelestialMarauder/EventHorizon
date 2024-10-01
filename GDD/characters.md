@@ -8,87 +8,29 @@
 - **Nickname**: VoidWalker
 - **Age**: 32
 - **Occupation**: Mercenary and former special forces operative
-- **Personality**:
+- **Personality**: Alex is strong-willed and determined, with a strong sense of justice. Despite her serious and professional nature, she’s known for her sarcastic humor and quick wit, which she uses to ease tension in tough situations. She has a laid-back attitude with those she trusts, often making playful remarks as if talking to an old friend.
+
 - **Physical Description**:
-- **Backstory**: Alex Harper grew up in a small colony on Mars, where she learned the value of self-reliance and perseverance. At a young age, she joined the military, quickly rising through the ranks due to her exceptional combat skills and strategic mind. After serving for a decade and earning numerous commendations, Alex decided to leave the military to become a freelance mercenary. Her reputation for getting the job done, no matter the odds, quickly made her one of the most sought-after operatives in the galaxy.
-- **Family History**: Alex's father was a renowned swordsman who left her a traditional, well-crafted japanese katana before he mysteriously disappeared during a mission. The sword holds great sentimental value for Alex and serves as a reminder of her father's teachings and their close bond.
-- **Motivation**: Driven by a strong sense of justice and a desire to protect the innocent, Alex takes on missions that align with her moral code. The mission to rescue Dr. Elara Voss and uncover the secrets of the ISS Prodigium aligns perfectly with her skills and sense of duty.
 
-### :bow_and_arrow: Abilities and Skills
+  - **Hair:** Dark hair with a few purple streaks that give her a distinctive look. Her hairstyle is practical, possibly layered to frame her face, but long enough to be tied back when necessary.
+  - **Eyes:** Eyes of an uncommon color, like light blue, with a subtle glow that suggests some form of biotech enhancement for improved vision in hostile environments.
+  - **Physique:** She has an athletic and toned build, the result of years of military training and a life as a mercenary. Her body bears small combat scars, adding a touch of realism to her appearance.
+  - **Clothing and Equipment:**
+    - Alex wears an advanced tactical suit designed for combat in extreme conditions, both on planets and in space. The suit is dark with luminous accents in purple or blue, reflecting her "VoidWalker" nickname.
+    - She always carries the katana she inherited from her father, featuring a futuristic design that retains traditional elements. The katana's blade emits a special energy that becomes visible when unsheathed.
+    - As a mercenary, she is also equipped with a compact energy rifle, customized with engravings that represent her achievements.
 
-**Skill Tree Overview**
+- **Backstory**: Alex Harper grew up in a small colony on Mars, where she learned the value of self-reliance and perseverance at a young age. Life on Mars was tough, plagued with conflict and corruption, which instilled in Alex a strong sense of justice. At 18, she joined the military, quickly rising through the ranks due to her exceptional combat skills and strategic mind. </br>After a decade of service and earning numerous commendations, Alex decided to leave the military following an incident that deeply disillusioned her with the military structure. This experience led her to become a mercenary, operating independently and choosing missions that align with her own moral code.
 
-Alex’s skill tree is divided into three main branches: Combat, Technology, and Survival. Each branch offers unique abilities that cater to different playstyles and scenarios.
+- **Family History**: Alex’s father, a renowned swordsman, left her a traditional Japanese katana before mysteriously disappearing during a mission. This katana holds great sentimental value and could be linked to a family legacy with secrets yet to be uncovered. Her father’s disappearance remains a mystery, and Alex often takes on missions that might offer clues about his whereabouts, fueling her personal motivation.
 
-**1. Combat Skills**
+- **Motivation**: Alex is driven by a strong sense of justice and a desire to protect the innocent. She takes on missions that reflect her moral principles, such as the mission to rescue Dr. Elara Voss and uncover the secrets of the ISS Prodigium, which align perfectly with her skills and sense of duty.
 
-- **Marksman**: Improved accuracy with ranged weapons.
-- **Sword Mastery**: Enhanced melee attacks and special moves with her father's sword.
-- **Tactical Roll**: Allows Alex to evade enemy attacks and quickly reposition.
-- **Grenadier**: Increased effectiveness and variety of throwable explosives.
-- **Adrenaline Boost**: Temporarily increases attack speed and damage output.
+- Character Relationships
 
-**2. Technology Skills**
+  - **Dr. Voss**: Initially a rescue target, their relationship evolves into a strong partnership based on mutual respect and shared goals.
 
-- **Energy Shield**: Deploys a temporary energy shield that absorbs damage.
-- **Tech Savvy**: Increases the efficiency of using and repairing advanced technology.
-
-**3. Survival Skills**
-
-- **Med Kit Proficiency**: Enhanced healing effects from medical kits.
-- **Resourceful**: Better scavenging abilities to find more ammunition and supplies.
-- **Endurance**: Increased health and stamina, allowing for longer engagements and faster recovery.
-
-### :gear: Equipment and Gear
-
-**Primary Weapons**
-
-- **Pulse Rifle**: A semi automatic pulse rifle.
-- **DarkStar**: A traditional, well-crafted japanese katana with great sentimental value, enhancing Alex’s melee combat capabilities.
-
-**Secondary Weapons**
-
-- **Grenades**: Various types, including frag, EMP, and incendiary grenades.
-
-**Special Gear**
-
-- **Combat Suit**: Provides enhanced protection and can be upgraded with various modules (e.g., reinforced armor).
-
-### :chart_with_upwards_trend: Character Development
-
-**Initial Abilities**
-
-- **Basic Combat Training**: Proficient in ranged and melee combat.
-- **Basic Hacking**: Can hack simple devices and terminals.
-- **Survival Instinct**: Basic proficiency in scavenging and first aid.
-
-**Mid-Game Abilities**
-
-- **Advanced Combat Techniques**: Improved accuracy and damage with all weapons.
-- **Advanced Hacking**: Can hack more complex systems.
-- **Enhanced Survival Skills**: Better scavenging and healing capabilities.
-
-**End-Game Abilities**
-
-- **Elite Combat Proficiency**: Mastery of all weapons and combat techniques.
-- **Master Hacker**: Can hack almost any system.
-- **Survival Expert**: Near-perfect efficiency in all survival-related activities.
-
-### :left_speech_bubble: Character Relationships
-
-- **Dr. Voss**: Initially a rescue target, their relationship evolves into a strong partnership based on mutual respect and shared goals.
-
-- **Vela/Nyx**: Starts as an ally but becomes the primary antagonist, leading to a complex relationship marked by betrayal and conflict.
-
-### :eyes: Appearance
-
-**Visual Design**
-
-- **Combat Suit**: Sleek and functional, with visible signs of wear and tear from numerous battles.
-
-- **Facial Features**: Determined expression and a few scars hint at her combat experience.
-
-- **Accessories**: Utility belt with pouches for ammunition and grenades. A shoulder holster for her plasma pistol. The traditional sword is sheathed on her side.
+  - **Vela/Nyx**: Starts as an ally but becomes the primary antagonist, leading to a complex relationship marked by betrayal and conflict.
 
 ## :test_tube: Dr. Elara Voss
 

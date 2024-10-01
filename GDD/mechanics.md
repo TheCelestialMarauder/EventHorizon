@@ -153,3 +153,63 @@
     - **Function**:
 
       - _Secure Areas_: Enter pass codes to unlock rooms or facilities that contain advanced gear, critical story elements, or rare collectibles.
+
+## :bow_and_arrow: Alex Abilities and Skills
+
+**Skill Tree Overview**
+
+Alex’s skill tree is divided into three main branches: Combat, Technology, and Survival. Each branch offers unique abilities that cater to different playstyles and scenarios.
+
+**1. Combat Skills**
+
+- **Marksman**: Improved accuracy with ranged weapons.
+- **Sword Mastery**: Enhanced melee attacks and special moves with her father's sword.
+- **Tactical Roll**: Allows Alex to evade enemy attacks and quickly reposition.
+- **Grenadier**: Increased effectiveness and variety of throwable explosives.
+- **Adrenaline Boost**: Temporarily increases attack speed and damage output.
+
+**2. Technology Skills**
+
+- **Energy Shield**: Deploys a temporary energy shield that absorbs damage.
+- **Tech Savvy**: Increases the efficiency of using and repairing advanced technology.
+
+**3. Survival Skills**
+
+- **Med Kit Proficiency**: Enhanced healing effects from medical kits.
+- **Resourceful**: Better scavenging abilities to find more ammunition and supplies.
+- **Endurance**: Increased health and stamina, allowing for longer engagements and faster recovery.
+
+### :gear: Equipment and Gear
+
+**Primary Weapons**
+
+- **Pulse Rifle**: A semi automatic pulse rifle.
+- **DarkStar**: A traditional, well-crafted japanese katana with great sentimental value, enhancing Alex’s melee combat capabilities.
+
+**Secondary Weapons**
+
+- **Grenades**: Various types, including frag, EMP, and incendiary grenades.
+
+**Special Gear**
+
+- **Combat Suit**: Provides enhanced protection and can be upgraded with various modules (e.g., reinforced armor).
+
+### :chart_with_upwards_trend: Character Development
+
+**Initial Abilities**
+
+- **Basic Combat Training**: Proficient in ranged and melee combat.
+- **Basic Hacking**: Can hack simple devices and terminals.
+- **Survival Instinct**: Basic proficiency in scavenging and first aid.
+
+**Mid-Game Abilities**
+
+- **Advanced Combat Techniques**: Improved accuracy and damage with all weapons.
+- **Advanced Hacking**: Can hack more complex systems.
+- **Enhanced Survival Skills**: Better scavenging and healing capabilities.
+
+**End-Game Abilities**
+
+- **Elite Combat Proficiency**: Mastery of all weapons and combat techniques.
+- **Master Hacker**: Can hack almost any system.
+- **Survival Expert**: Near-perfect efficiency in all survival-related activities.
