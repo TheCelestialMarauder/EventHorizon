@@ -106,9 +106,12 @@ public class PlayerController : MonoBehaviour
     {
         // Instantiate the bullet
         GameObject bullet = Instantiate(bulletPrefab, bulletSpawnPoint.position, bulletSpawnPoint.rotation);
-        Rigidbody2D rbBullet = bullet.GetComponent<Rigidbody2D>();
 
-        // Add force to the bullet to make it move
-        rbBullet.velocity = bulletSpawnPoint.up * bulletSpeed;
+        // Pass the desired speed to the bullet so it can handle its own movement
+        Bullet bulletComponent = bullet.GetComponent<Bullet>();
+        if (bulletComponent != null)
+        {
+            bulletComponent.bulletSpeed = bulletSpeed;
+        }
     }
 }
